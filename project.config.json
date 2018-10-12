@@ -1,0 +1,66 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"appid": "wxd1ca70db507085dd",
+	"projectname": "%E4%BA%91%E5%87%BD%E6%95%B0%E5%AE%9E%E6%88%98",
+	"libVersion": "2.2.5",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 4,
+			"list": [
+				{
+					"id": -1,
+					"name": "HTTP",
+					"pathName": "pages/http/http",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "msgCheck",
+					"pathName": "pages/msgCheck/msgCheck",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "imageCheck",
+					"pathName": "pages/imageCheck/imageCheck",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "tcbRouter",
+					"pathName": "pages/tcbRouter/tcbRouter",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "template",
+					"pathName": "pages/template/template",
+					"query": ""
+				}
+			]
+		}
+	}
+}

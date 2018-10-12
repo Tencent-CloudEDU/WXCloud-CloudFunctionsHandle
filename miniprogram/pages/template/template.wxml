@@ -1,0 +1,4 @@
+<form report-submit='{{true}}' bindsubmit="onSubmit">
+<button form-type='submit'>提交</button>
+</form>
+<button bindtap="templateMsg">发送模板消息</button>
