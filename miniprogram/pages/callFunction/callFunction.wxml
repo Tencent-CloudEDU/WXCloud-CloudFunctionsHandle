@@ -1,0 +1,1 @@
+<button bindtap="callF">callFunction</button>

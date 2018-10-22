@@ -6,7 +6,8 @@
     "pages/msgCheck/msgCheck",
     "pages/imageCheck/imageCheck",
     "pages/tcbRouter/tcbRouter",
-    "pages/template/template"
+    "pages/template/template",
+    "pages/callFunction/callFunction"
   ],
   "window": {
     "backgroundColor": "#F6F6F6",
